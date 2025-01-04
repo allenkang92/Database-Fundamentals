@@ -1,0 +1,1 @@
+elasticsearch의 라이선스
