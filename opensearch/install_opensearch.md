@@ -1,1 +1,0 @@
-opensearch 설치

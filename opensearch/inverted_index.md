@@ -1,1 +1,0 @@
-역색인 구조 Inverted index
